@@ -21,7 +21,7 @@ This repository contains code analyzing Seattle's rain from 1948 to 2017. The da
 - [seattleWeather_1948-2017.csv](https://github.com/GoldbergData/seattle-rain/blob/master/seattleWeather_1948-2017.csv):  data set used for analysis
 - [seattle_rain.ipynb](https://github.com/GoldbergData/seattle-rain/blob/master/seattle_rain.ipynb): notebook contaning the exploration and analysis
 - [national_rainfall.png](https://github.com/GoldbergData/seattle-rain/blob/master/national_rainfall.png): image used in analysis for national comparison
-- [readme.md](https://github.com/GoldbergData/seattle-rain/blob/master/README.md): file providing overview of repository
+- [README.md](https://github.com/GoldbergData/seattle-rain/blob/master/README.md): file providing overview of repository
 
 ### Summary of the results
 - It does rain a lot in Seattle compared to the rest of the country. However, if we look at actual rainfall, [Seattle ranks](http://www.usa.com/rank/us--average-precipitation--state-rank.htm) in the middle of the pack. 
