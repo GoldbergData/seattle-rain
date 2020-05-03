@@ -27,7 +27,7 @@ This repository contains code analyzing Seattle's rain from 1948 to 2017. The da
 - It does rain a lot in Seattle compared to the rest of the country. However, if we look at actual rainfall, [Seattle ranks](http://www.usa.com/rank/us--average-precipitation--state-rank.htm) in the middle of the pack. 
 - The summers are dry and warm.
 - The winter vary the least as the high/low temperature range is narrow.
-- Finally, our analysis showed that one day lag precipitation and and temperature can help with making reasonably accurate predictions.
+- Finally, the modeling exercise showed that one day lag precipitation and and temperature are important features in predicting if it will rain on a given day.
 
 ## Acknowledgements
 - [Kaggle](https://kaggle.com/)
